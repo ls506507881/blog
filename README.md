@@ -1,18 +1,18 @@
 # 第一步. 在浏览器输入URL
 
-- 什么是URL
+## 什么是URL
 
  　URL（Uniform Resource Locator：统一资源定位器）用于定位互联网上的资源
 
 是WWW页的地址，它从左到右由下述部分组成：
 
- 　- Internet资源类型（scheme）：指出WWW客户程序用来操作的工具。如“http：//”表示WWW服务器，“ftp：//”表示FTP服务器，“gopher：//”表示Gopher服务器，而“new：”表示Newgroup新闻组。
+ 　Internet资源类型（scheme）：指出WWW客户程序用来操作的工具。如“http：//”表示WWW服务器，“ftp：//”表示FTP服务器，“gopher：//”表示Gopher服务器，而“new：”表示Newgroup新闻组。
 
- 　- 服务器地址（host）：指出WWW页所在的服务器域名。
+ 　服务器地址（host）：指出WWW页所在的服务器域名。
 
-　 - 端口（port）：有时（并非总是这样），对某些资源的访问来说，需给出相应的服务器提供端口号。
+　 端口（port）：有时（并非总是这样），对某些资源的访问来说，需给出相应的服务器提供端口号。
 
-　 - 路径（path）：指明服务器上某资源的位置（其格式与DOS系统中的格式一样，通常有目录/子目录/文件名这样结构组成）。与端口一样，路径并非总是需要的。
+　 路径（path）：指明服务器上某资源的位置（其格式与DOS系统中的格式一样，通常有目录/子目录/文件名这样结构组成）。与端口一样，路径并非总是需要的。
 
 　 URL地址格式排列为：scheme：//host：port/path，例如http：//www.sohu.com/domain/HXWZ就是一个典型的URL地址。
 
